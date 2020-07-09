@@ -3,3 +3,13 @@ wall of shields
 standing strong
 on this their choisen battle field
 
+<<<<<<< HEAD
+some content some
+content some content
+
+fourth couple
+some words
+third couple
+some words
+=======
+>>>>>>> c38f751e42600bf0372000fea2c267ab28e4544e
