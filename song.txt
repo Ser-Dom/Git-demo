@@ -12,3 +12,5 @@ third couple
 some words
 
 for tag only
+
+for stash
